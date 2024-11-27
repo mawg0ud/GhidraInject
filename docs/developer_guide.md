@@ -2,7 +2,7 @@
 
 ## Overview
 
-This section provides guidelines for contributing to the **GhidraFridaHookGen** project. It includes detailed instructions on the project structure, building the project, and how to extend its functionality.
+This section provides guidelines for contributing to the **GhidraInject** project. It includes detailed instructions on the project structure, building the project, and how to extend its functionality.
 
 ## Project Structure
 
