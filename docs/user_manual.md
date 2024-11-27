@@ -22,7 +22,7 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YourUsername/GhidraFridaHookGen.git
+   git clone https://github.com/mawg0ud/GhidraInject.git
    cd GhidraFridaHookGen
    ```
 
@@ -40,11 +40,11 @@
 3. **Run the application**:
    For CLI:
    ```bash
-   ./GhidraFridaHookGen -f <function_name>
+   ./GhidraInject -f <function_name>
    ```
    For GUI, simply execute:
    ```bash
-   ./GhidraFridaHookGen
+   ./GhidraInject
    ```
 
 ## Usage
@@ -52,7 +52,7 @@
 ### CLI
 
 ```bash
-Usage: GhidraFridaHookGen [options]
+Usage: GhidraInject [options]
 Options:
   -f, --function <function_name>  Specify the function to hook
   -h, --help                     Show help message
