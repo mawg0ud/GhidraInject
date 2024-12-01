@@ -13,7 +13,7 @@ SRC_FILES = $(wildcard $(SRC_DIR)/**/*.cpp)
 OBJ_FILES = $(SRC_FILES:$(SRC_DIR)/%.cpp=$(BUILD_DIR)/%.o)
 
 # Output executable
-EXEC = $(BUILD_DIR)/GhidraFridaHookGen
+EXEC = $(BUILD_DIR)/GhidraInject
 
 # Rules
 all: $(EXEC)
