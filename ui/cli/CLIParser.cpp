@@ -25,7 +25,7 @@ void CLIParser::parseArguments() {
 }
 
 void CLIParser::printHelp() const {
-    std::cout << "Usage: GhidraFridaHookGen [options]\n";
+    std::cout << "Usage: GhidraInject [options]\n";
     std::cout << "Options:\n";
     std::cout << "  -f, --function <function_name>  Specify the function to hook\n";
     std::cout << "  -h, --help                     Show this help message\n";
