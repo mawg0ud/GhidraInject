@@ -1,8 +1,8 @@
 
-# Unit Tests for GhidraFridaHookGen
+# Unit Tests for GhidraInject
 
 ## Overview
-This directory contains unit and integration tests for the `GhidraFridaHookGen` project. It uses the Google Test framework to ensure the core components work correctly.
+This directory contains unit and integration tests for the `GhidraInject` project. It uses the Google Test framework to ensure the core components work correctly.
 
 ## Test Coverage
 - **GhidraPluginTest**: Tests for the Ghidra plugin loading and function retrieval.
@@ -19,7 +19,7 @@ To run the tests, use the following commands:
 
 2. Run the tests:
    ```bash
-   ./tests/GhidraFridaHookGenTest
+   ./tests/GhidraInject
    ```
 
 For further test documentation and individual test case explanations, please refer to the source files in the `test/` directory.
